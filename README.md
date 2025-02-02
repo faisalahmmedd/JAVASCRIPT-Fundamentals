@@ -86,7 +86,7 @@ Special Topics:
     v. Divide and assign (/=) Ex: var a=10; a/=2; now a =5 </br>
     vi. Modulus and assign (%=) Ex: var a = 5; a%=2; now a = 1 </br>
 
-12. Special Operator
+12. Special Operator (Codition ? if : else )
 
 13. Javascript IF-Else statement is used to execute the code whether condition is true or false </br>
     i. If statement </br>
