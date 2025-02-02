@@ -3,7 +3,7 @@ Here is all the basic javascript concepts that i am learning in the beginner lev
 
 Special Topics: 
 
-** Template Literals in JavaScript :
+** Template Literals in JavaScript : </br>
   -- If you embed JavaScript in an HTML file (e.g., inside <script> tags) backticks are used for template literals. Template literals allow for multi-line strings 
    and embedding expressions with ${expression} 
    Ex: <script>
