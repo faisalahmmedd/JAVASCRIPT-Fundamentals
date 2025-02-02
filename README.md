@@ -5,11 +5,11 @@ Special Topics:
 
 ** Template Literals in JavaScript : </br>
   -- If you embed JavaScript in an HTML file (e.g., inside <script> tags) backticks are used for template literals. Template literals allow for multi-line strings 
-   and embedding expressions with ${expression} 
-   Ex: <script>
-           const name = "John";
-           console.log(`Hello, ${name}!`); // Output: Hello, John!
-       </script>
+   and embedding expressions with ${expression} </br>
+   Ex: <script> </br>
+           const name = "John"; </br>
+           console.log(`Hello, ${name}!`); // Output: Hello, John! </br>
+       </script> </br>
 
 
        
